@@ -20,4 +20,5 @@ Forming a word cloud stored in the image a_new_hope.png
 ![Masked Parrot](/parrot_new.png)
 
 3. Alice Wonderworld :
+
 ![Masked Alice](/alice_world_output.png)
